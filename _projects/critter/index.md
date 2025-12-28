@@ -1,11 +1,12 @@
 ---
 layout: post
-title: project title
-description:  short description of the project
+title: Robot
+description:  Critter, aka my 2.007 robot in spring 2025
 skills: 
-- skill 1
-- skill 2
-main-image: /project.webp 
+- CAD
+- prototyping
+- manufacturing
+main-image: /critter1.jpg
 ---
 
 ## section title
