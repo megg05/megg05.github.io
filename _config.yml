@@ -13,7 +13,7 @@ title: meg's portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Megan Tseng
-headline: and this is my engineering portfolio :-)
+headline: welcome to my portfolio B)
 description: >- # dont remove this line. this will ignore all new lines until the next section
   3rd year mechanical engineering undergraduate / 
   interested in robotics, aerospace, and neuroscience / aspiring
@@ -25,7 +25,7 @@ profile_image: ./assets/images/profile-image/avatar.jpg
 
 # TODO: Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: /assets/resume/resume.pdf
+resume-url: ./assets/resume/resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
