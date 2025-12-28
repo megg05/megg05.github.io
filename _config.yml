@@ -13,11 +13,11 @@ title: meg's portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Megan Tseng
-headline: welcome to my portfolio B)
+headline: welcome to my portfolio :-)
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  3rd year mechanical engineering undergraduate / 
-  interested in robotics, aerospace, and neuroscience / aspiring
-  controls engineer
+  3rd year MechE undergrad interested in robots, planes, and brains / aspiring
+  controls engineer / prev Mechatronics @ ASML
+  
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpg
