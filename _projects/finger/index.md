@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Actuators for robotic hand
+order: 3
 description:  Miniaturization of low-impedance actuators for a humanoid robotic hand. [urop @ Improbable AI, CSAIL]
 skills: 
 - CAD

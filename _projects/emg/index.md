@@ -1,6 +1,7 @@
 ---
 layout: post
 title: EMG-Based Prosthetic Control
+order: 7
 description:  Enhancing feedback for upper extremity prostheses via EMG signal interpretation.
 skills: 
 - programming

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[in progress] Hybrid fixed-wing VTOL flight"
+order: 1
 description:  Agile flight control for an autonomous hybrid aerial vehicle. [urop @ Aerospace Controls Lab]
 skills: 
 - CAD
