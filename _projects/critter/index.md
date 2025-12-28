@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Robot
-description:  Critter, aka my 2.007 robot in spring 2025
+title: 2.007 robot
+description:  Critter, aka my 2.007 robot in spring 2025.
 skills: 
 - CAD
 - prototyping
