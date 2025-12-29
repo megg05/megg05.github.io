@@ -7,15 +7,15 @@
 
 # Main Page Setup
 
-title: meg's archive # This is what shows up in the tab of the browser
+title: meg's portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
 name: Megan Tseng
-headline: welcome to my portfolio :-)
+headline: welcome to my portfolio ˙ᵕ˙
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  3rd year MechE undergrad interested in robots, planes, and brains / aspiring
+  3rd year MIT MechE undergrad interested in robots, planes, and brains / aspiring
   controls engineer / prev Mechatronics @ ASML
   
 
@@ -70,8 +70,8 @@ formspree-key:   https://formspree.io/f/{8-digit key}
 colors: # this is the basic theme
   text: "#1a1c20"
   border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
+  link: "#2D484A"
+  highlight: "#1F2742"
   background: "#ffffff"
   light_background: "#f3f5fb"
 
