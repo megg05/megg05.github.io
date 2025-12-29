@@ -10,7 +10,7 @@ skills:
 main-image: /psyonic.png
 ---
 
-## overview
+## details
 This project focused on improving prosthetic control of upper extremities using virtual representations of musculature instead of traditional signal pattern recognition. This was accomplished by training and optimizing a machine learning model to accurately predict limb trajectories based on a subject's electromyography (EMG) signals. My work built upon previous research done by my graduate mentor, Michael Fernandez, in the Biomechatronics Group.
 The virtual model was integrated and tested with the Psyonic Ability Hand, an EMG-enabled prosthetic hand.
 

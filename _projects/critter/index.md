@@ -10,7 +10,7 @@ skills:
 main-image: /crittercool.jpg
 ---
 
-## overview
+## details
 Critter was built for the 2.007 (Design and Manufacturing I) student competition in spring 2025. Through setting and modifying my  requirements throughout the design process, I opted to build a robot capable of autonomously flipping the levers on the game board for the full match. This involved fabricating a 2-motor chassis and a 4-bar linkage actuated by one servo to gain mechanical advantage. Full robot CAD:
 {% include image-gallery.html images="crittercad.png" height="600" %}
 

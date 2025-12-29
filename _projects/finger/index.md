@@ -10,7 +10,7 @@ skills:
 main-image: /finger.png
 ---
 
-## overview
+## details
 Robotics has historically relied on high impedance actuators, which require operation in structured environments and reliance on path planning. Unexpected interactions thereby lead to potential damage to the robot or its environment. This project contributes to the development of compliant actuators for a dexterous robotic hand that is safe to interact with. The low impedance (quasi-direct drive) actuators used minimize inertial and frictional losses by employing high-torque motors with low-reduction gearboxes. Reducing the gear ratio enhances backdrivability, allowing:
 1. response to external forces to not be limited by motor speed and
 2. force control to be achieved through current sensing.
