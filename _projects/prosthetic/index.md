@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enhanced ankle-foot prosthetic
-order: 5
+order: 6
 description:  Improved design of an individual's commercial ankle-foot prosthetic for bilateral ankle paralysis.
 skills: 
 - CAD

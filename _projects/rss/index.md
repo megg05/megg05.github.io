@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Autonomous mobile robot
-order: 6
-description:  Ground-up development of an integrated hardware-software system for autonomous driving, based in ROS2. [6.4200]
+order: 7
+description:  Ground-up development of an integrated hardware-software system for autonomous driving, based in ROS2.
 skills: 
 - programming
 - hardware testing
