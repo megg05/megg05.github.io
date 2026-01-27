@@ -27,6 +27,15 @@ body {
     margin: 0 auto;
 }
 
+ul, ol {
+  color: var(--text-color);
+}
+
+li {
+  color: var(--text-color);
+}
+
+
 
 
 /* NAVBAR */
