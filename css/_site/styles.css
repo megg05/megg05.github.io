@@ -19,24 +19,22 @@ html {
     scroll-behavior: smooth
 }
 
-body {
+/* body {
     padding: 0 50px;
     font-family: 'Poppins', sans-serif;
     background-color: var(--background-color);
     max-width: 1400px;
     margin: 0 auto;
+} */
+
+body {
+    padding: 0 50px;
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    max-width: 1400px;
+    margin: 0 auto;
 }
-
-ul, ol {
-  color: var(--text-color);
-}
-
-li {
-  color: var(--text-color);
-}
-
-
-
 
 /* NAVBAR */
 nav {
@@ -616,7 +614,7 @@ footer {
   
   /* Links */
   a {
-    color: #3498db;
+    color: var(--link-color);
     text-decoration: none;
     transition: color 0.3s ease;
   }
@@ -634,18 +632,18 @@ footer {
   
   /* Blockquotes */
   blockquote {
-    border-left: 4px solid #3498db;
+    border-left: 4px solid var(--link-color);
     margin: 15px 0;
     padding: 10px 20px;
-    background-color: #e7f3fe;
-    color: #2c3e50;
+    background-color: var(--light-background-color);
+    color: var(--text-color);
   }
   
   /* Horizontal rules */
   hr {
     border: 0;
     height: 1px;
-    background: #ddd;     
+    background: var(--border-color);     
     margin: 20px 0;
   }
   
@@ -673,8 +671,12 @@ footer {
   }
   
   th {
-    background-color: #f8f9fa;
-    color: #495057;
+  background-color: var(--light-background-color);
+  color: var(--text-color);
+  }
+
+  td {
+  color: var(--text-color);
   }
 
 a {
