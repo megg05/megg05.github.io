@@ -25,6 +25,7 @@ body {
     padding: 0 50px;
     font-family: 'Poppins', sans-serif;
     background-color: var(--background-color);
+    color: var(--text-color);
     max-width: 1400px;
     margin: 0 auto;
 }
@@ -58,6 +59,14 @@ p {
     margin-bottom: 1em;
     padding: 0;
   }
+
+li {
+    color: var(--text-color);
+}
+
+li::marker {
+    color: var(--text-color);
+}
   
 
 /* NAVBAR */
