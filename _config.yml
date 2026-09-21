@@ -15,8 +15,7 @@ title: meg's portfolio # This is what shows up in the tab of the browser
 name: Megan Tseng
 headline: welcome to my portfolio ˙ᵕ˙
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  3rd year MIT meche-eecs undergrad / aspiring space nerd / prev mechatronics @ asml
-  / incoming gnc ai @ lockheed martin space
+  4th year MIT meche-eecs undergrad / space + robotics / prev gnc ai @ lockheed martin space
   
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
@@ -25,7 +24,7 @@ profile_image: ./assets/images/profile-image/avatar.jpg
 
 # TODO: Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/1K-WW-4z0lVkUle5nEUu_dYwkuYJovGX0/view?usp=sharing
+resume-url: https://drive.google.com/file/d/1Su5-Yo9GFTpSLt2B81bD05Z9w9EGfJpM/view?usp=sharing
 
 
 # Set up external links - this will show up as small icons next to your name.
@@ -47,19 +46,23 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: 3D modeling
     tools:
-    - Onshape
     - Solidworks
     - Fusion 360
     - Siemens NX
+    - Onshape
   - category: programming & electrical
     tools:
     - Python
     - MATLAB
     - Simulink
-    - ROS2
     - C++ / Arduino
     - Circuit design
-
+  - category: misc toolkits
+    tools:
+    - ROS2
+    - STK
+    - Drake
+    - Basilisk
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
 formspree-key:   https://formspree.io/f/{8-digit key}
