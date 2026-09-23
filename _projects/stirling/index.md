@@ -6,7 +6,7 @@ description:  A stirling engine.
 skills: 
 - CAD
 - manufacturing
-main-image: /stirlingengine.jpg
+main-image: /stirlingengine.JPG
 ---
 
 ## details
