@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Critter
-order: 2
+order: 8
 description:  A autonomous/RC-capable robot for the 2.007 competition in spring 2025.
 skills: 
 - CAD

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[in progress] Hybrid fixed-wing VTOL flight"
-order: 1
-description:  Agile flight control for an autonomous hybrid aerial vehicle. [urop @ Aerospace Controls Lab]
+title: "[in progress] Agile flight for VTOL"
+order: 3
+description:  Hardware stack and agile flight control for an autonomous hybrid aerial vehicle. [urop @ Aerospace Controls Lab]
 skills: 
 - CAD
 - prototyping
@@ -10,8 +10,8 @@ skills:
 main-image: /planewiring.jpg
 ---
 
-## overview
-This project focuses on extending flight time of fixed-wing unmanned aerial vehicles (UAVs) by taking advantage of thermal updrafts in the environment. Planning and control algorithms are being developed to improve autonomous soaring capabilities in a controlled indoor high-bay. To test, we are setting up a hybrid fixed-wing VTOL, which requires control allocation for transitions between flight modes to accomplish agile flight. This work is conducted under the guidance of my graduate mentor, Lili Sun.
+## details
+This project focuses on extending flight time of fixed-wing unmanned aerial vehicles (UAVs) by taking advantage of thermal updrafts in the environment. Planning and control algorithms are being developed to improve autonomous soaring capabilities in a controlled indoor high-bay. To test, we are setting up a hybrid fixed-wing VTOL, which requires control allocation for transitions between flight modes to accomplish agile flight. This work is conducted under the guidance of my graduate mentor, Lili Sun, in the Aerospace Controls Lab @ MIT.
 
 ## current tasks
 - System identification of the XK40, including characterization of actuators and in-flight vehicle dynamics.

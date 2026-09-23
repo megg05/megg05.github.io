@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EMG-based prosthetic control
-order: 4
+order: 7
 description:  Enhancing feedback for upper extremity prostheses via EMG signal interpretation. [urop @ Biomechatronics, Media Lab]
 skills: 
 - programming
@@ -11,7 +11,7 @@ main-image: /psyonic.png
 ---
 
 ## details
-This project focused on improving prosthetic control of upper extremities using virtual representations of musculature instead of traditional signal pattern recognition. This was accomplished by training and optimizing a machine learning model to accurately predict limb trajectories based on a subject's electromyography (EMG) signals. My work built upon previous research done by my graduate mentor, Michael Fernandez, in the Biomechatronics Group.
+This project focused on improving prosthetic control of upper extremities using virtual representations of musculature instead of traditional signal pattern recognition. This was accomplished by training and optimizing a machine learning model to accurately predict limb trajectories based on a subject's electromyography (EMG) signals. My work built upon previous research done by my graduate mentor, Michael Fernandez, in the Biomechatronics Group @ MIT Media Lab.
 The virtual model was integrated and tested with the Psyonic Ability Hand, an EMG-enabled prosthetic hand.
 
 ## role

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Actuators for robotic hand
-order: 3
+order: 6
 description:  Miniaturization of low-impedance actuators for a humanoid robotic hand. [urop @ Improbable AI, CSAIL]
 skills: 
 - CAD
@@ -20,4 +20,4 @@ This work was conducted under the guidance of my mentor, Branden Romero.
 - Miniaturizing the actuator for the distal interphalangeal (DIP) joint of the hand.
 {% include image-gallery.html images="fingergears.png" height="400" %}
 [Gearing of the DIP joint]
-Due to the compact design, higher gear reductions are necessary to maintain similar performance. In addition to sizing, modelling, and fabricating gears to fit a small form, this required me to evaluate the drawbacks of increased mechanical impedance from increasing gear reductions. 
+Due to the compact design, higher gear reductions are necessary to maintain similar performance. In addition to sizing, modelling, and fabricating gears to fit a small form, this required me to evaluate the drawbacks of increased mechanical impedance from increasing gear reductions. This built upon previous work done by my research mentor, Brandon Romero, in the Improbable AI Lab @ MIT.

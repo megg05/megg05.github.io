@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FSAE racecar aerostructures
-order: 5
+order: 9
 description: Design, validation, and manufacturing of sidepods for an MIT Motorsports racecar (MY24).
 skills: 
 - CAD
